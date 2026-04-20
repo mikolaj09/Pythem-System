@@ -1,0 +1,15 @@
+def endgame(score, u, i):
+    print()
+    print("BRAWO! Przeszedłeś całą grę!")
+    print()
+    print("Zgodnie z prawem, gdy Król Świnek wyzywa kogoś na pojedynek i przegra, zwyciężca zostaje nowym królem.")
+    print("Zatem zostajesz nowym władcą i przyrzekasz, że w każdym sklepie będzie od teraz błotko.")
+    print()
+    print("Gracz", u[i], "zdobył:", score, "punkty/ów")
+    print()
+    print("Autor: MIKOŁAJ")
+    print("Specjalne podziękowania: MIKOŁAJ")
+    print()
+    print("          KONIEC GRY!!!")
+    print()
+    return 0
